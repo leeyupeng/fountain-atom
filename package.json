@@ -1,7 +1,7 @@
 {
   "name": "fountain-zh",
   "main": "./lib/fountain",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "基于 superlou/fountain-atom 修改，针对中文做了部分优化",
   "deserializers": {
     "FountainPreviewView": "deserializeFountainPreviewView"
@@ -22,8 +22,7 @@
     "afterwriting": "^1.11.0",
     "sortablejs": "^1.6.1"
   },
-  "package-deps": [
-  ],
+  "package-deps": [],
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/leeyupeng/fountain-atom/issues"
